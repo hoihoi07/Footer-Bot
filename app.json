@@ -1,6 +1,6 @@
 {
     "name": "A Telegram Footer Bot by @AbirHasan2005.",
-    "description": "A Telegram Bot for adding Footer caption beside main caption of Telegram Channel Messages. Best for Telegram Movie Channels. Made by @AbirHasan2005.",
+    "description": "A Telegram Bot for adding Footer caption beside main caption of Telegram Channel Messages. Best for Telegram Movie Channels. Made by @jettastic.",
     "keywords": [
         "telegram",
         "channel",
@@ -10,8 +10,8 @@
         "bot"
     ],
     "repository": "https://github.com/AbirHasan2005/Footer-Bot",
-    "website": "https://telegram.dog/AbirHasan2005",
-    "success_url": "https://t.me/Footer_Bot",
+    "website": "https://telegram.dog/jetbots",
+    "success_url": "https://t.me/footer_jetbot",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
